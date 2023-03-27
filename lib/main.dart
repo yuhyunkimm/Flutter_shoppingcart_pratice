@@ -42,7 +42,7 @@ class ShoppingCartPage extends StatelessWidget {
       ),
       actions: [
         IconButton(
-            icon: Icon(Icons.arrow_back),
+            icon: Icon(Icons.shopping_cart),
             onPressed: () {},
         ),
         SizedBox(width: 16),
